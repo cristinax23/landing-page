@@ -72,7 +72,8 @@ header inner-column {
 
 ul {
   display: flex;
-  justify-content: space around;
+  justify-content: space-around;
+  align-items: center;
   gap: 15px;
 }
 
